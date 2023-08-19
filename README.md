@@ -1,6 +1,6 @@
 # medicineapp
 
-A new Flutter project.
+A mobile app to track medicine.
 
 ## Getting Started
 
