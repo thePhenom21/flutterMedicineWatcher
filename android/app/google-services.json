@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766441949184",
+    "project_id": "flutterwatcher",
+    "storage_bucket": "flutterwatcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766441949184:android:4f044361bf0699cbdc30e5",
+        "android_client_info": {
+          "package_name": "com.example.medicineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766441949184-j2fmcj0uhgtmque8krohgdncpg8ad2kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicineapp",
+            "certificate_hash": "a7fe61569ac07289f11c2f412e0a6fe6e7b207bd"
+          }
+        },
+        {
+          "client_id": "766441949184-dm5329nbtejc04hioq0kqqami17hcuer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WUJarmQCZPWMC0SpPd4JFmG2gwxRh0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766441949184-dm5329nbtejc04hioq0kqqami17hcuer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
